@@ -1,0 +1,17 @@
+body {
+    background-color: gray;
+}
+
+.main {
+    display: block;
+    margin: 200px auto;
+    width: 50%;
+    height: 50%;
+    color: white;
+}
+
+.card-body {
+    color: black;
+    padding: 10px;
+    text-align: center;
+}
